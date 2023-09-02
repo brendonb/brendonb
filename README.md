@@ -10,6 +10,12 @@
   - [Built a Gui Desktop Application using Python and PyQT5](https://github.com/brendonb/Hotel-Management-System) <b><i>(In Progress)</b></i>
     
 <h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b> Network Engineering lab and Security</b>
+  - [Firewall implementation with Pfsense](https://github.com/brendonb/cybersecurity)<b></b>
+  - Installation and configuration of (DHCP,DNS,Proxy,NAT,DMZ,Routing,OpenVas,Nessus,WAF,VPN)<b></b>
+  - Documentation and Scanning Assesment
+  - <b><i>(In progress)</b></i>
 <h2>📺 YouTube Videos</h2>
 
 
