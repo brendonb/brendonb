@@ -9,7 +9,7 @@
 - <b>Hotel Management System</b>
   - [Built a Gui Desktop Application using Python and PyQT5](https://github.com/brendonb/Hotel-Management-System) <b><i>(In Progress)</b></i>
     
-<h2>👨‍💻 IT Administrative Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 <h2>📺 YouTube Videos</h2>
 
 
