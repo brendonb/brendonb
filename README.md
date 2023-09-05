@@ -13,7 +13,7 @@
 
 - <b> Network Engineering lab and Security</b>
   - [Firewall implementation with Pfsense](https://github.com/brendonb/cybersecurity)<b></b>
-  - Installation and configuration of (DHCP,DNS,Proxy,NAT,DMZ,Routing, AlienVault OSSIM,Nessus,WAF)<b></b>
+  - Installation and configuration of (DHCP,DNS,Proxy,NAT,DMZ,Routing, AlienVault OSSIM and Nessus)<b></b>
   - Documentation and Scanning Assesment
   - <b><i>(In progress)</b></i>
 <h2>📺 YouTube Videos</h2>
