@@ -13,11 +13,9 @@
 
 - <b> Network Engineering lab and Security</b>
   - [Firewall implementation with Pfsense](https://github.com/brendonb/cybersecurity)<b></b>
-  - Installation and configuration of (DHCP,DNS,Proxy,NAT,DMZ,Routing, AlienVault OSSIM and Nessus)<b></b>
-  - Documentation and Scanning Assesment
-  - <b><i>(In progress)</b></i>
+  - Installation and configuration of (DHCP,DNS,Proxy,NAT,DMZ,Routing, Splunk and Kali)<b></b>
+  
 <h2>📺 YouTube Videos</h2>
-
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -25,7 +23,6 @@
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 [twitter]: https://twitter.com/[BarendsBrendon]
 [youtube]: https://www.youtube.com/channel/UCwsS7b9pKKJ3bBONRoE3ELQ
