@@ -7,7 +7,7 @@
 - <b>Full Stack Web App Collaborative project (Flask,Pyhton,Mysql,HTML,CSS,JavaScript and Architecture Documentation)</b>
   - [Online Quiz app](https://github.com/brendonb/examprepstudio) <b><i>(In progress)</b></i>
 - <b>Hotel Management System</b>
-  - [Built a Gui Desktop Application using Python and PyQT5](https://github.com/brendonb/Hotel-Management-System) <b><i>(In Progress)</b></i>
+  - [Built a Gui Desktop Application using Python and PyQT5](https://github.com/brendonb/Hotel-Management-System) 
     
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
