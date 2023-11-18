@@ -15,7 +15,7 @@
   - [Firewall implementation with Pfsense](https://github.com/brendonb/cybersecurity)<b></b>
   - Installation and configuration of (DHCP,DNS,Proxy,NAT,DMZ,Routing, Splunk and Kali)<b></b>
 - <b> Wazuh SIEM deployment with Windows server Group policy</b>
-   - [Configure wazuh agent deployment to endpoints]
+   - [Configure wazuh agent deployment to endpoints] (WIP)
   
 <h2>📺 YouTube Videos</h2>
 
