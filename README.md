@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>DevOps Engineering project </b>
-  - [CI/CD](https://github.com/brendonb/devops-lab)<b></b>
-  - (HTML,CSS,Linux,Docker,Jenkins,GitLab,Sonarqube,Prometheus and Grafana)<b></b>
-    
 - <b> Taskmate Todo App tutorial (Udemy)</b>
   - [Completed tutorial](https://github.com/brendonb/taskmate)
   - (HTML,CSS,Python,SQL-Lite,Django)
+    
+- <b> DevOps Engineering project </b>
+  - [CI/CD](https://github.com/brendonb/devops-lab)<b></b>
+  - (HTML,CSS,Linux,Docker,Jenkins,GitLab,Sonarqube,Prometheus and Grafana)<b></b>
 
 - <b>Hotel Management System</b>
   - [Built a Gui Desktop Application](https://github.com/brendonb/Hotel-Management-System)</b>
