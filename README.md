@@ -6,13 +6,13 @@
   - [Completed tutorial](https://github.com/brendonb/taskmate)
   - (HTML,CSS,Python,SQL-Lite,Django)
     
-- <b> DevOps Engineering project </b>
-  - [CI/CD](https://github.com/brendonb/devops-lab)<b></b>
-  - (HTML,CSS,Linux,Docker,Jenkins,GitLab,Sonarqube,Prometheus and Grafana)<b></b>
-
 - <b>Hotel Management System</b>
   - [Built a Gui Desktop Application](https://github.com/brendonb/Hotel-Management-System)</b>
   - (Python, PyQt5, MySQL)
+    
+- <b> DevOps Engineering project </b>
+  - [CI/CD](https://github.com/brendonb/devops-lab)<b></b>
+  - (HTML,CSS,Linux,Docker,Jenkins,GitLab,Sonarqube,Prometheus and Grafana)<b></b>
     
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
