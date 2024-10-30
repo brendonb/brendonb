@@ -7,10 +7,12 @@
   - (HTML,CSS,Linux,Docker,Jenkins,GitLab,Sonarqube,Prometheus and Grafana)<b></b>
     
 - <b> Taskmate Todo App tutorial (Udemy)</b>
-  - [Completed tutorial using Python, HTML,CSS,Javascript and Django](https://github.com/brendonb/taskmate)
+  - [Completed tutorial](https://github.com/brendonb/taskmate)
+  - (HTML,CSS,Python,SQL-Lite,Django)
 
 - <b>Hotel Management System</b>
-  - [Built a Gui Desktop Application using Python and PyQT5](https://github.com/brendonb/Hotel-Management-System) 
+  - [Built a Gui Desktop Application](https://github.com/brendonb/Hotel-Management-System)</b>
+  - (Python, PyQt5, MySQL)
     
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
