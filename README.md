@@ -3,8 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>DevOps Engineering project </b>
-  - [CI/CD](https://github.com/brendonb/devops-lab)
-  - (HTML,CSS,Linux,Docker,Jenkins,GitLab,Sonarqube,Prometheus and Grafana)
+  - [CI/CD](https://github.com/brendonb/devops-lab)<b></b>
+  - (HTML,CSS,Linux,Docker,Jenkins,GitLab,Sonarqube,Prometheus and Grafana)<b></b>
     
 - <b> Taskmate Todo App tutorial (Udemy)</b>
   - [Completed tutorial using Python, HTML,CSS,Javascript and Django](https://github.com/brendonb/taskmate)
