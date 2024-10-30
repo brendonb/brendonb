@@ -2,10 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>DevOps Engineering project (HTML,CSS,Linux,Docker,Jenkins,GitLab,Sonarqube,Prometheus and Grafana)</b>
+  - [CI/CD](https://github.com/brendonb/devops-lab)
+    
 - <b> Taskmate Todo App tutorial (Udemy)</b>
   - [Completed tutorial using Python, HTML,CSS,Javascript and Django](https://github.com/brendonb/taskmate)
-- <b>Full Stack Web App Collaborative project (Flask,Pyhton,Mysql,HTML,CSS,JavaScript and Architecture Documentation)</b>
-  - [Online Quiz app](https://github.com/brendonb/examprepstudio) <b><i>(In progress)</b></i>
+
 - <b>Hotel Management System</b>
   - [Built a Gui Desktop Application using Python and PyQT5](https://github.com/brendonb/Hotel-Management-System) 
     
