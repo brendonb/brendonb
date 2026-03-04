@@ -24,6 +24,7 @@
 
   
 <h2> 🤳 Connect with me:</h2>
+- Website: https://brendonb.tech/ <br>
 - Twitter/X:  https://twitter.com/BarendsBrendon<br>
 - Linkedin: https://linkedin.com/in/brendon-barends-90aa6a28a/
 
