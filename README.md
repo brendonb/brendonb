@@ -24,8 +24,8 @@
 
   
 <h2> 🤳 Connect with me:</h2>
-- LinkedIn: https://twitter.com/BarendsBrendon
-- Twitter/X:  https://twitter.com/BarendsBrendon
+- LinkedIn: https://twitter.com/BarendsBrendon <br>
+- Twitter/X:  https://twitter.com/BarendsBrendon<br>
 - Linkedin: https://linkedin.com/in/brendon-barends-90aa6a28a/
 
 
