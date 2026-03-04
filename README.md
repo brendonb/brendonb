@@ -6,7 +6,7 @@
   - [Implement Azure Web app deployment](https://github.com/brendonb/azurecloud3tierprj)
   - (Azure Cloud,HTML,CSS,Javascript, C#,ASP.Net, Azure SQL)<b></b>
 
-- <b> DevOps Engineering project </b>
+- <b> Local DevOps Engineering project </b>
   - [CI/CD](https://github.com/brendonb/devops-lab)<b></b>
   - (HTML,CSS,Linux,Docker,Jenkins,GitLab,Sonarqube,Prometheus and Grafana)<b></b>
       
@@ -23,9 +23,6 @@
   - Installation and configuration of (DHCP,DNS,Proxy,NAT,DMZ,Routing, Splunk and Kali)<b></b>
 
   
-<h2>📺 YouTube Videos</h2>
-
-
 <h2> 🤳 Connect with me:</h2>
 
 [twitter]: https://twitter.com/[BarendsBrendon]
