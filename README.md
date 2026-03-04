@@ -24,10 +24,11 @@
 
   
 <h2> 🤳 Connect with me:</h2>
+- LinkedIn: https://twitter.com/BarendsBrendon
+- Twitter/X:  https://twitter.com/BarendsBrendon
+- Linkedin: https://linkedin.com/in/brendon-barends-90aa6a28a/
 
-[twitter]: https://twitter.com/[BarendsBrendon]
-[youtube]: https://www.youtube.com/channel/UCwsS7b9pKKJ3bBONRoE3ELQ
-[linkedin]: https://linkedin.com/in/brendon-barends-90aa6a28a/
+
 
 
 
