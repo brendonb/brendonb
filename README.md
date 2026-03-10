@@ -2,10 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b> Azure VPN Application Security Engineering </b>
-  - [Azure Secure App access](https://github.com/brendonb/azureapplicationsecurity)
-  - (Azure Cloud,VPN,NSG,RG,Vnet,Defender,Sentinel,Ubuntu Linux HRM App, Win 10)<b></b>
- 
 - <b> Azure 3 Tier Single Region Risiliency Architecture </b>
   - [Implement Azure Web app deployment](https://github.com/brendonb/azurecloud3tierprj)
   - (Azure Cloud,HTML,CSS,Javascript, C#,ASP.Net, Azure SQL)<b></b>
@@ -21,6 +17,10 @@
 
     
 <h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b> Azure VPN Application Security Engineering </b>
+  - [Azure Secure App access](https://github.com/brendonb/azureapplicationsecurity)
+  - (Azure Cloud,VPN,NSG,RG,Vnet,Defender,Sentinel,Ubuntu Linux HRM App, Win 10)<b></b>
 
 - <b> Network Engineering lab and Security</b>
   - [Firewall implementation with Pfsense](https://github.com/brendonb/cybersecurity)<b></b>
