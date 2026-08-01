@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b> HR Web application with AI integration </b>
-  - [HR Web app deployment](https://github.com/brendonb/HRApplication)
+  - [HR On-prem Application](https://github.com/brendonb/HRApplication)
   - (Blazor, C#, ASP.Net, MSSQL, Ollama, Active Directory)<b></b>
 
 - <b> Azure 3 Tier Single Region Risiliency Architecture </b>
